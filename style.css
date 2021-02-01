@@ -1,0 +1,13 @@
+#thead{
+    background-color:black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#tbody{
+    text-align: center  ;
+}
+
+.body{
+    padding: 5%;
+}
